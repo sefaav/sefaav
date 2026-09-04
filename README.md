@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sefa Avci
 
-<!--
-**sefaav/sefaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at EPFL focused on quantitative research,
+machine learning, and statistics.
 
-Here are some ideas to get you started:
+### Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[QuantLab](https://github.com/sefaav/QuantLab)** — Reproducible quantitative research and backtesting platform with walk-forward validation, robustness testing, realistic transaction costs, and automated research reporting.
+
+### Current research
+
+- Currently working on independent quantitative research projects focused on empirical testing and out-of-sample robustness.
+
+### Interests
+
+Quantitative Research · Statistical Learning · Systematic Investing · Time Series Analysis · Portfolio Construction · Machine Learning
+
+[Portfolio](https://sefaav.github.io/website/) · [LinkedIn](https://www.linkedin.com/in/sefa-avci/)
