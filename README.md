@@ -7,9 +7,7 @@ machine learning, and statistics.
 
 - **[QuantLab](https://github.com/sefaav/QuantLab)** — Reproducible quantitative research and backtesting platform with walk-forward validation, robustness testing, realistic transaction costs, and automated research reporting.
 
-### Current research
-
-- Currently working on independent quantitative research projects focused on empirical testing and out-of-sample robustness.
+- **[Quant Research Notebooks](https://github.com/sefaav/Quant-Research-Notebooks)** — Reproducible empirical research in quantitative finance. The first study tests whether ADF stationarity filtering improves pairs-trading performance out of sample across 92 ETF pairs and 34 walk-forward folds.
 
 ### Interests
 
